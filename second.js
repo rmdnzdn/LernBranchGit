@@ -12,6 +12,7 @@ class second extends Component {
     return (
       <View>
         <Text> second Screen</Text>
+        <Text> addkag halaman kedua</Text>
       </View>
     );
   }
