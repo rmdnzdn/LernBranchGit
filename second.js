@@ -11,8 +11,7 @@ class second extends Component {
   render() {
     return (
       <View>
-        <Text> second Screen</Text>
-        <Text> Mencoba Melihat Perbandingan Antar Repo dengan Local </Text>
+        <Text> second </Text>
       </View>
     );
   }
