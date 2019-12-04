@@ -11,7 +11,8 @@ class cabang  extends Component {
   render() {
     return (
       <View>
-        <Text> cabang  ubah di master </Text>
+        <Text>update cabang dengan mengubah text</Text>
+        <Text>dan up ke development</Text>
       </View>
     );
   }
