@@ -12,6 +12,7 @@ class index extends Component {
     return (
       <View>
         <Text> index </Text>
+        <Text> Percobaan Perubahan Pertama </Text>
       </View>
     );
   }
